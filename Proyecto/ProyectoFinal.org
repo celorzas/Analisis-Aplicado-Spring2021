@@ -28,8 +28,10 @@ Favor de introducir, en el formato que está aquí, los integrantes y las temát
 |--------+-----------------+-------------------------|
 | Equipo | Temática        | Integrantes             |
 |--------+-----------------+-------------------------|
-|      1 | Elemento Finito | Integrante 1, 000110022 |
-|        |                 | Integrante 2, 000110022 |
+|      1 | Elemento Finito |Carolina Elorza 000166780|
+|        |                 |Jesús Solórzano 000163029|
+|        |                 |Ana Carolina S. 000110022|
+|        |                 |Otro integrante 000110022|
 |--------+-----------------+-------------------------|
 |      2 | Nuevo Tema      | Integrante 1, 000110022 |
 |        |                 | Integrante 2, 000110022 |
